@@ -2,7 +2,7 @@
 ![Tampilan](Data/Tampilan1.jpg)
 #
 [![Video Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* #### If you don't understand Indonesian, you can click the three dots in the top right corner and click translate to English.
+#### If you don't understand Indonesian, you can click the three dots in the top right corner and click translate to English.
 ## DESKRIPSI 🎯
 * Style_Fish Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
