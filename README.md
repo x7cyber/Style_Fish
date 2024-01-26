@@ -1,6 +1,7 @@
 # Style_Fish 🐟🐠
 ![Tampilan](Data/Tampilan1.jpg)
 #
+* ### If you understand English, please click the three dots in the top right corner and click translate!
 ## DESKRIPSI 🎯
 * Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
@@ -8,6 +9,7 @@
 * Banyak yang menganggap bahwa yang kalian gunakan adalah KALI LINUX, Nethunter! Padahal ini hanyalah sebuah Tools Ringan yang dibuat khusus untuk TERMUX.
 * Tools ini menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
 * Dengan menggunakan Tools ini, anda dapat dengan mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
+* Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
 # PANDUAN PENGGUNA ⚠️
 ##### Sebelum menggunakan, pastikan anda sudah mengecek file .bashrc 
 ##### Coba cek file tersebut dengan perintah :
@@ -49,10 +51,13 @@ cd Style_Fish
 ```
 python3 style.py
 ```
-* #### Atau
-```
-Python method.py
-```
 #
 #
 ### Dengan ini Anda setuju atas perubahan di file .bashrc dan config fish3. ini tidak akan mengubah/merusak sistem terminal ⛔
+### Yang bisa kalian lakukan :
+* Default masuk ke direktori adalah => cd Tutorial/
+* Namun dengan menggunakan Tools ini, kalian cukup mengetik => Tutorial/
+* Untuk kembali, cukup ketik => ..
+* Dan untuk kembali ke bagian awal tampilan! ketik => cd
+* Dan untuk input url pastikan menggunakan tanda "" Misalnya curl "https://www.example.com" untuk menghindari kesalahan!
+* 
