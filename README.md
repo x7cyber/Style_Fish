@@ -28,36 +28,51 @@ nano .bashrc
 beberapa hal yang harus anda perhatikan adalah... kesalahan saat menjalankan program!
 Maka dari itu, saya harap anda sudah mengikuti hal² berikut ini!
 
-* ### update dan upgrade Termux
+### update dan upgrade Termux
 ```
 apt update && apt upgrade -y
 ```
-* ### Install git
+### Install git
 ```
 apt install git -y
 ```
-* ### Install Python
+### Install Python
 ```
 apt install python -y
 ```
-* ### Install Modul
+### Install Figlet » WAJIB
+```
+apt install figlet -y
+```
+### Install Modul
 ```
 pip install rich
 ```
-* ### Clone repository Style_F
+### Clone repository Style_F
 ```
 git clone https://github.com/M-Cyber7/Style_Fish
 ```
-* ### Masuk ke direktori
+### Masuk ke direktori
 ```
 cd Style_Fish
 ```
-* ### Jalankan Tools
+### Jalankan Tools
 ```
 python3 style.py
 ```
 #
+____________________________________
 #
-### Dengan ini Anda setuju atas perubahan di file .bashrc dan config fish3. ini tidak akan mengubah/merusak sistem terminal ⛔
-
 # PENGGUNAAN 🎯
+### Contoh :
+#
+![Proses](Data/proses.jpg)
+* Input Nama depan & Nama belakang, kemudian pilih simbol tengah! Jika kalian ingin memasukkan Simbol tengah secara manual(sesuka hati) Maka kalian bisa ketik m
+* Namun jika ingin kalian Kosongkan, maka ketik k
+* Dan jika tidak ke duanya, maka bisa input Nomor yang sudah di sediakan Misalnya 2!
+* Kemudian pilh opsi, apakah ingin mengaktifkan teks sebagai logo/banner ketika masuk ke dalam terminal? (y/t) :
+dimana y adalah perizinan iya & kalian harus input Nama kalian untuk teks banner! sedangkan t adalah Tidak!
+#
+### Hasilnya :
+#
+![Hasil](Data/hasil.jpg)
