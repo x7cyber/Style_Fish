@@ -8,11 +8,12 @@
 * Dengan fungsi dan cara kerja yang hampir sama seperti KALI LINUX 🔥
 * Mendukung fitur auto syntax pada command! Mirip seperti di Terminal Kali!
 * Tools Ringan yang dibuat khusus untuk TERMUX.
-* Tools ini menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
-* Dengan menggunakan Tools ini, anda dapat dengan mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
+* Style_F Version 0.1
+* Menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
+* Mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 * Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
 * Tunggu update selanjutnya yang menyertakan beberapa paket perintah yang umum digunakan + mempercepat eksekusi program & kode.
-# PANDUAN PENGGUNA ⚠️
+# PERINGATAN ⚠️
 ##### Sebelum menggunakan, pastikan anda sudah mengecek file .bashrc 
 ##### Coba cek file tersebut dengan perintah :
 ```
@@ -57,3 +58,5 @@ python3 style.py
 #
 #
 ### Dengan ini Anda setuju atas perubahan di file .bashrc dan config fish3. ini tidak akan mengubah/merusak sistem terminal ⛔
+
+# PENGGUNAAN 🎯
