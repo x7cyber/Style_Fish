@@ -66,10 +66,11 @@ ____________________________________
 #
 ![Proses](Data/proses.jpg)
 * Inputlah Nama depan kemudian enter, dan input lagi Nama belakang. kemudian pilih simbol tengah! Jika kalian ingin memasukkan Simbol tengah secara manual Maka kalian bisa ketik **m**
-* Namun jika kalian ingin meng-kosongkan, maka ketik **k**
-* Dan jika ingin memilih tanda/simbol yang sudah disediakan... kalian bisa pilih nomor dari angka **1** sampai **8** (Misalnya saya pilih nomor 2)
+* Namun jika kalian ingin meng-kosongkan simbol, maka ketik **k**
+* Dan jika ingin memilih tanda/simbol yang sudah disediakan... kalian bisa pilih nomor dari angka **1** sampai **8** (Disini saya pilih nomor 2)
 * Kemudian pilih opsi, apakah ingin mengaktifkan teks sebagai logo/banner ketika masuk ke dalam terminal? (y/t) :
-dimana, **y** adalah perizinan iya/yes & kalian harus input Nama kalian untuk teks banner! sedangkan **t** adalah Tidak/no!
+* **y** adalah Yes sedangkan **t** adalah Tidak!
+* Jika ada pertanyaan lain, anda bisa ajukan & laporkan ke admin **@indonesiancyber7** 
 * Selengkapnya ada di YouTube :
 **Cyber M**
 https://YouTube.com
@@ -79,10 +80,9 @@ https://YouTube.com
 ![Hasil](Data/hasil.jpg)
 #
 #
-**Support me in :** 
+**Support me in 🌟 :** 
 #
 [![YouTube](https://img.shields.io/badge/youtube-%40CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
 [![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/M-Cyber7)
 [![Instagram](https://img.shields.io/badge/IG-%20indonesiancyber7-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/Indonesiancyber7)
 [![Tiktok](https://img.shields.io/badge/tiktok-%40CyberM-cyan?style=for-the-badge&logo=tiktok)](https://tiktok.com/@educationm_cyber_29)
-[![Facebook](https://img.shields.io/badge/facebook-%40Penggunasosmed-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61551079130055)
