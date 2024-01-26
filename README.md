@@ -80,6 +80,19 @@ https://YouTube.com
 ![Hasil](Data/hasil.jpg)
 #
 #
+## Menampilkan cursor berkedip 🚀
+**Ikutlah denganku... Pertama, ketiklah ```cd```**
+**Kemudian masuklah ke dalam direktori khusus properti :**
+```
+nano ~/.termux/termux.properties
+```
+**Langkah awal setelah kalian masuk adalah, CARILAH TEKS dengan nama ```terminal-cursor-style =```**
+Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks yang akan kita cari ```terminal-cursor-style =``` Dan kalian akan langsung diarahkan kesana!
+
+**Langkah kedua adalah menghapus tanda ```#``` di awal teks!** Ini berfungsi untuk menyalakan konfigurasi cursor.
+* **JADINYA SEPERTI INI 👇**
+
+
 **Support me in 🌟 :** 
 #
 [![YouTube](https://img.shields.io/badge/youtube-%40CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
