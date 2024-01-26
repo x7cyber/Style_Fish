@@ -80,20 +80,27 @@ https://YouTube.com
 ![Hasil](Data/hasil.jpg)
 #
 #
-## Menampilkan cursor berkedip 🚀
+## Menampilkan cursor 🚀
 **Ikutlah denganku... Pertama, ketiklah ```cd```**
 **Kemudian masuklah ke dalam direktori khusus properti :**
 ```
 nano ~/.termux/termux.properties
 ```
-**Langkah awal setelah kalian masuk adalah, CARILAH TEKS dengan nama ```terminal-cursor-style =```**
-Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks yang akan kita cari ```terminal-cursor-style =``` Dan kalian akan langsung diarahkan kesana!
+**Langkah awal setelah kamu masuk adalah, CARILAH TEKS dengan nama ```terminal-cursor-style =```**
+Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks yang akan kita cari ```terminal-cursor-style =``` Dan kamu akan langsung diarahkan kesana!
 
 **Langkah kedua adalah menghapus tanda ```#``` di awal teks!** Ini berfungsi untuk menyalakan konfigurasi cursor.
-* **JADINYA SEPERTI INI 👇**
 
+**Langkah ketiga Jika ingin kursor berkedip, kamu bisa atur angka dari 100-2000**
 
-**Support me in 🌟 :** 
+* **Contohnya SEPERTI INI 👇**
+![Contoh](Data/contoh.jpg)
+
+* **Jika kalian masih bingung, Klik tautan dibawah ini :)**
+* https://www.youtube.com
+___________________________________
+#
+**Find me in 🌟 :** 
 #
 [![YouTube](https://img.shields.io/badge/youtube-%40CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
 [![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/M-Cyber7)
