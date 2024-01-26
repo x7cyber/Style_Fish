@@ -1,14 +1,16 @@
-# Style_Fish
+# Style_Fish 🐟🐠
 ![Tampilan](Data/Tampilan1.jpg)
 #
-#
+## DESKRIPSI 🎯
 * Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
-* Dengan fungsi dan kerja yang hampir sama seperti Terminal KALI LINUX 🔥
-* Tools ini menggunakan library/pustaka fish3 dan dengan bantuan .bashrc
+* Dengan fungsi dan cara kerja yang hampir sama seperti KALI LINUX 🔥
+* Banyak yang menganggap bahwa yang kalian gunakan adalah KALI LINUX, Nethunter! Padahal ini hanyalah sebuah Tools Ringan yang dibuat khusus untuk TERMUX.
+* Tools ini menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
+* Dengan menggunakan Tools ini, anda dapat dengan mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 # PANDUAN PENGGUNA ⚠️
 ##### Sebelum menggunakan, pastikan anda sudah mengecek file .bashrc 
-##### Cobalah untuk cek file tersebut dengan perintah :
+##### Coba cek file tersebut dengan perintah :
 ```
 nano .bashrc
 ```
@@ -31,7 +33,26 @@ apt install git -y
 ```
 apt install python -y
 ```
+* #### Install Modul
+```
+pip install rich
+```
 * #### Clone repository Style_F
 ```
-git clone
+git clone https://github.com/M-Cyber7/Style_Fish
 ```
+* #### Masuk ke direktori
+```
+cd Style_Fish
+```
+* #### Jalankan Tools
+```
+python3 style.py
+```
+* #### Atau
+```
+Python method.py
+```
+#
+#
+### Dengan ini Anda setuju atas perubahan di file .bashrc dan config fish3. ini tidak akan mengubah/merusak sistem terminal ⛔
