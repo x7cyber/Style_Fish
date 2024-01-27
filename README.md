@@ -4,17 +4,18 @@
 **[🤨] If you don't understand Indonesian, you can click the three dots in the top right corner and click translate to English.**
 ___________________________________
 #
-### DAFTAR ISI
+## DAFTAR ISI
 - [DESKRIPSI](#deskripsi)
+- [PERINGATAN](#peringatan)
+- [PENGINSTALAN](#penginstalan)
 - [PENGGUNAAN](#penggunaan)
-- [MASALAH](#masalah)
-
-
-
-<a name="penggunaan"></a>
-## PENGGUNAAN
-Cara menggunakan Style_fish di Termux 
-## DESKRIPSI 🎯
+- [MENAMPILKAN KURSOR](#style-kursor)
+- [WARNA BACKGROUND](#warna-style)
+#
+___________________________________
+#
+<a name="deskripsi"></a>
+# DESKRIPSI 🎯
 * Style_Fish Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
 * Sederhana & Canggih untuk pemula!
@@ -26,6 +27,9 @@ Cara menggunakan Style_fish di Termux
 * Mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 * Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
 * Tunggu update selanjutnya yang menyertakan beberapa paket perintah yang umum digunakan + mempercepat eksekusi program & kode.
+#
+___________________________________
+<a name="peringatan"></a>
 # PERINGATAN ⚠️
 **Sebelum menggunakan, pastikan anda sudah mengecek file .bashrc coba cek file tersebut dengan perintah :**
 ```
@@ -33,8 +37,9 @@ nano .bashrc
 ```
 Jika didalam file tersebut tidak ada source/kode apapun... Maka tidak akan menjadi Masalah. Namun, jika didalamnya terdapat source/kode yang pernah anda buat sebelumnya! Maka saya harap anda telah menyalin/mencopy di tempat lain! Saya harap anda sudah setuju dan paham atas semua penjelasan yang saya Tulis di atas!
 #
-____________________________________
+___________________________________
 #
+<a name="penginstalan"></a>
 # PENGINSTALAN 🚀
 **beberapa hal yang harus anda perhatikan adalah... kesalahan saat menjalankan program!
 Maka dari itu, saya harap anda sudah mengikuti hal² berikut ini!**
@@ -73,6 +78,7 @@ python3 style.py
 #
 ___________________________________
 #
+<a name="penggunaan"></a>
 # PENGGUNAAN 🎯
 **Contohnya :**
 #
@@ -92,6 +98,9 @@ https://YouTube.com
 ![Hasil](Data/hasil.jpg)
 #
 #
+___________________________________
+#
+<a name="style-kursor"></a>
 # MENAMPILKAN KURSOR 🚀
 **Perhatikan dengan baik... Pertama, ketiklah ```cd```**
 **Kemudian masuklah ke dalam direktori khusus properti :**
@@ -110,7 +119,8 @@ Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks 
 #
 ___________________________________
 #
-# MEMBERI WARNA/STYLE 🔵
+<a name="warna-style"></a>
+# WARNA BACKGROUND 🔵
 **Langkah awal yaitu Menginstall style tambahan untuk apk Termux!**
 Tapi tenang, saya sudah sudah menyiapkannya dalam bentuk MediaFire yang bisa kalian Download dengan Mudah :)
 
