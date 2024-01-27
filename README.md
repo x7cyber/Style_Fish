@@ -1,15 +1,13 @@
 # Style_Fish 🐟🐠
-
-### DAFTAR ISI
-- [DESKRIPSI](#deskripsi)
-- [PENGGUNAAN](#penggunaan)
-- [MASALAH](#masalah)
 ![Tampilan](Data/Tampilan1.jpg)
 #
 **[🤨] If you don't understand Indonesian, you can click the three dots in the top right corner and click translate to English.**
 ___________________________________
 #
-
+### DAFTAR ISI
+- [DESKRIPSI](#deskripsi)
+- [PENGGUNAAN](#penggunaan)
+- [MASALAH](#masalah)
 
 
 
