@@ -1,7 +1,21 @@
 # Style_Fish 🐟🐠
+
+### DAFTAR ISI
+- [DESKRIPSI](#deskripsi)
+- [PENGGUNAAN](#penggunaan)
+- [MASALAH](#masalah)
 ![Tampilan](Data/Tampilan1.jpg)
 #
 **[🤨] If you don't understand Indonesian, you can click the three dots in the top right corner and click translate to English.**
+___________________________________
+#
+
+
+
+
+<a name="penggunaan"></a>
+## PENGGUNAAN
+Cara menggunakan Style_fish di Termux 
 ## DESKRIPSI 🎯
 * Style_Fish Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
