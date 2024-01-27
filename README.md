@@ -23,7 +23,7 @@ Jika didalam file tersebut tidak ada source/kode apapun... Maka tidak akan menja
 #
 ____________________________________
 #
-# PENGINSTALAN WAJIB 🚀
+# PENGINSTALAN 🚀
 **beberapa hal yang harus anda perhatikan adalah... kesalahan saat menjalankan program!
 Maka dari itu, saya harap anda sudah mengikuti hal² berikut ini!**
 
@@ -59,7 +59,7 @@ cd Style_Fish
 python3 style.py
 ```
 #
-____________________________________
+___________________________________
 #
 # PENGGUNAAN 🎯
 **Contohnya :**
@@ -80,8 +80,8 @@ https://YouTube.com
 ![Hasil](Data/hasil.jpg)
 #
 #
-## Menampilkan cursor 🚀
-**Ikutlah denganku... Pertama, ketiklah ```cd```**
+# MENAMPILKAN KURSOR 🚀
+**Perhatikan dengan baik... Pertama, ketiklah ```cd```**
 **Kemudian masuklah ke dalam direktori khusus properti :**
 ```
 nano ~/.termux/termux.properties
@@ -93,16 +93,43 @@ Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks 
 
 **Langkah ketiga Jika ingin kursor berkedip, kamu bisa atur angka dari 100-2000**
 
-* **Contohnya SEPERTI INI 👇**
+* **CONTOHNYA SEPERTI INI 👇**
 ![Contoh](Data/contoh.jpg)
+#
+___________________________________
+#
+# MEMBERI WARNA/STYLE 🔵
+**Langkah awal yaitu Menginstall style tambahan untuk apk Termux!**
+Tapi tenang, saya sudah sudah menyiapkannya dalam bentuk MediaFire yang bisa kalian Download dengan Mudah :)
 
+**Link Download :**
+#
+[![MediaFire](https://img.shields.io/badge/mediafire-TermuxStyle-blue?style=for-the-badge&logo=mediafire)](https://www.mediafire.com/file/2h200cf5iabssdk/Termux-style.apk/file)
+#
+**Setelah Terinstall... Pasang apk nya, dan pastikan sudah terpasang dengan baik tanpa ada kesalahan!**
+
+Setelah itu, Masuklah ke Termux! dan **Tahan lama layar** sampai muncul teks **More** Kemudian klik dan pilih **Style**!
+
+**Seperti ini :**
+![Step1](Data/step1.jpg)
+#
+Kemudian pilih warna/**CHOOSE COLOR** Dan scroll ke bawah sampai kamu menemukan style bernama **Solarized Dark** 
+
+**Seperti ini :**
+
+![Step2](Data/step2.jpg)
+#
+___________________________________
+#
+### SELESAI 🐟🐠
+#
 * **Jika kalian masih bingung, Klik tautan dibawah ini :)**
 * https://www.youtube.com
 ___________________________________
 #
 **Find me in 🌟 :** 
 #
-[![YouTube](https://img.shields.io/badge/youtube-%40CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
+[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
 [![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/M-Cyber7)
-[![Instagram](https://img.shields.io/badge/IG-%20indonesiancyber7-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/Indonesiancyber7)
+[![Instagram](https://img.shields.io/badge/IG-%40indonesiancyber7-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/Indonesiancyber7)
 [![Tiktok](https://img.shields.io/badge/tiktok-%40CyberM-cyan?style=for-the-badge&logo=tiktok)](https://tiktok.com/@educationm_cyber_29)
