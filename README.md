@@ -6,7 +6,7 @@ ___________________________________
 #
 ## DAFTAR ISI
 - [DESKRIPSI](#deskripsi)
-- [PERINGATAN](#peringatan)
+- [PERINGATAN ⚠️](#peringatan)
 - [PENGINSTALAN](#penginstalan)
 - [PENGGUNAAN](#penggunaan)
 - [MENAMPILKAN KURSOR](#style-kursor)
@@ -19,10 +19,10 @@ ___________________________________
 * Style_Fish Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
 * Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
 * Sederhana & Canggih untuk pemula!
-* Dengan fungsi dan cara kerja yang hampir sama seperti KALI LINUX 🔥
-* Mendukung fitur auto syntax pada command! Mirip seperti di Terminal Kali!
+* Dengan fungsi dan cara kerja yang hampir sama & cepat seperti KALI LINUX 🔥
+* Mendukung fitur auto syntax pada Terminal/command!
 * Tools Ringan yang dibuat khusus untuk TERMUX.
-* Style_F Version 0.1
+* Style_F **Version 0.1**
 * Menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
 * Mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 * Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
@@ -83,25 +83,21 @@ ___________________________________
 **Contohnya :**
 #
 ![Proses](Data/proses.jpg)
-* Inputlah Nama depan kemudian enter, dan input lagi Nama belakang. kemudian pilih simbol tengah! Jika kalian ingin memasukkan Simbol tengah secara manual Maka kalian bisa ketik **m**
+* Input Nama depan kemudian enter, dan input lagi Nama belakang. kemudian pilih simbol tengah! Jika kalian ingin memasukkan Simbol tengah secara manual Maka kalian bisa ketik **m**
 * Namun jika kalian ingin meng-kosongkan simbol, maka ketik **k**
-* Dan jika ingin memilih tanda/simbol yang sudah disediakan... kalian bisa pilih nomor dari angka **1** sampai **8** (Disini saya pilih nomor 2)
+* Dan jika ingin memilih tanda/simbol yang sudah disediakan... kalian bisa pilih nomor dari angka **1** sampai **8** Yang telah disediakan seperti diatas! (Disini saya pilih nomor 2)
 * Kemudian pilih opsi, apakah ingin mengaktifkan teks sebagai logo/banner ketika masuk ke dalam terminal? (y/t) :
 * **y** adalah Yes sedangkan **t** adalah Tidak!
-* Jika ada pertanyaan lain, anda bisa ajukan & laporkan ke admin **@indonesiancyber7** 
-* Selengkapnya ada di YouTube :
-**Cyber M**
-https://YouTube.com
+* Jika ada pertanyaan lain, anda bisa ajukan & laporkan ke admin **@indonesiancyber7**
+___________________________________
 #
 **Seperti inilah Hasilnya :**
 #
 ![Hasil](Data/hasil.jpg)
-#
-#
 ___________________________________
 #
 <a name="style-kursor"></a>
-# MENAMPILKAN KURSOR 🚀
+# MENAMPILKAN KURSOR 🖱️
 **Perhatikan dengan baik... Pertama, ketiklah ```cd```**
 **Kemudian masuklah ke dalam direktori khusus properti :**
 ```
@@ -146,7 +142,9 @@ ___________________________________
 ### SELESAI 🐟🐠
 #
 * **Jika kalian masih bingung, Klik tautan dibawah ini :)**
-* https://www.youtube.com
+[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
+
+* **Terimakasih telah membaca dokumentasi Tools ini 🚀**
 ___________________________________
 #
 **Find me in 🌟 :** 
