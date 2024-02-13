@@ -141,8 +141,8 @@ ___________________________________
 #
 ### SELESAI 🐟🐠
 #
-* **Jika kalian masih bingung, Klik tautan dibawah ini :)**
-[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
+* **Video Tutorial ⚡**
+[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtu.be/9hmR2JEDjGE)
 
 * **Terimakasih telah membaca dokumentasi Tools ini 🚀**
 ___________________________________
