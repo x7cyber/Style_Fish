@@ -21,6 +21,7 @@ ___________________________________
 * Sederhana & Canggih untuk pemula!
 * Dengan fungsi dan cara kerja yang hampir sama & cepat seperti KALI LINUX 🔥
 * Mendukung fitur auto syntax pada Terminal/command!
+* Dengan indikator pesan kesalahan khusus seperti **[ ✓ ]** Dan **[ ✘ ]**
 * Tools Ringan yang dibuat khusus untuk TERMUX.
 * Style_F **Version 0.1**
 * Menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
