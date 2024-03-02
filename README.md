@@ -8,6 +8,7 @@ ___________________________________
 - [DESKRIPSI](#deskripsi)
 - [PERINGATAN ⚠️](#peringatan)
 - [PENGINSTALAN](#penginstalan)
+- [ERROR](#error)
 - [PENGGUNAAN](#penggunaan)
 - [MENAMPILKAN KURSOR](#style-kursor)
 - [WARNA BACKGROUND](#warna-style)
@@ -79,6 +80,16 @@ python3 style.py
 #
 ___________________________________
 #
+<a name="error"></a>
+# Error ⁉️
+![Error](Data/error.jpg)
+* Jika terjadi error seperti diatas... artinya kita belum membuat direktori fish sebagai tempat config!
+* Lakukan dengan cara ini :
+```
+touch /data/data/com.termux/files/home/.config/fish/config.fish
+```
+* ini akan membuat direktori/tempat untuk menyimpan konfigurasi dari input kalian!
+______________________________________
 <a name="penggunaan"></a>
 # PENGGUNAAN 🎯
 **Contohnya :**
