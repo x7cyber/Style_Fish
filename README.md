@@ -24,7 +24,7 @@ ___________________________________
 * Mendukung fitur auto syntax pada Terminal/command!
 * Dengan indikator pesan kesalahan khusus seperti **[ ✓ ]** Dan **[ ✘ ]**
 * Tools Ringan yang dibuat khusus untuk TERMUX.
-* Style_F **Version 0.1**
+* Style_F **Version 0.2** up
 * Menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
 * Mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 * Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
@@ -67,6 +67,10 @@ pip install rich
 ```
 
 ```
+touch /data/data/com.termux/files/home/.config/fish/config.fish
+```
+
+```
 git clone https://github.com/M-Cyber7/Style_Fish
 ```
 
@@ -82,9 +86,8 @@ ___________________________________
 #
 <a name="error"></a>
 # Error ⁉️
-![Error](Data/error.jpg)
-* Jika terjadi error seperti diatas... artinya kita belum membuat direktori fish sebagai tempat config!
-* Lakukan dengan cara ini :
+* Jika terjadi error, artinya anda melewati perintah untuk membuat direktori fish sebagai tempat config!
+* Lakukan dengan cara ini lagi :
 ```
 touch /data/data/com.termux/files/home/.config/fish/config.fish
 ```
