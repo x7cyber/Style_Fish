@@ -1,4 +1,6 @@
-# Update v-0.2
+# Update v-0.5
+# Penambahan background & font otomatis 
+# Fix bug!
 #--->
 
 import os
