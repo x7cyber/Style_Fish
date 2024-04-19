@@ -18,13 +18,13 @@ ___________________________________
 <a name="deskripsi"></a>
 # DESKRIPSI 🎯
 * Style_Fish Merupakan sebuah Tools yang di rancang untuk mempermudah dan mempercepat Tugas di dalam terminal android (Termux) 🔵
-* Tools ini Membutuhkan setidaknya 25.0 MB total penyimpanan!
+* Tools ini Membutuhkan setidaknya 30 MB total penyimpanan!
 * Sederhana & Canggih untuk pemula!
 * Dengan fungsi dan cara kerja yang hampir sama & cepat seperti KALI LINUX 🔥
 * Mendukung fitur auto syntax pada Terminal/command!
 * Dengan indikator pesan kesalahan khusus seperti **[ ✓ ]** Dan **[ ✘ ]**
 * Tools Ringan yang dibuat khusus untuk TERMUX.
-* Style_F **Version 0.2** up
+* Style_F **Version 0.5** up
 * Menggunakan library/pustaka Python3 & fish3 dengan bantuan modul rich sebagai style Tools
 * Mudah & cepat dalam mengeksekusi perintah/command di terminal ⚡
 * Tools masih dalam tahap proses pengembangan & akan menjadi lebih baik jika anda memberikan saran kepada saya ^_^
