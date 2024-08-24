@@ -160,5 +160,5 @@ ___________________________________
 **Find me in 🌟 :** 
 #
 [![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@cyberm_)
-[![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/x7cyber)
+[![Github](https://img.shields.io/badge/Github-x7cyber-white?style=for-the-badge&logo=github)](https://github.com/x7cyber)
 [![Tiktok](https://img.shields.io/badge/tiktok-%40CyberM-cyan?style=for-the-badge&logo=tiktok)](https://tiktok.com/@cyberm._)
