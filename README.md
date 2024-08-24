@@ -71,7 +71,7 @@ touch /data/data/com.termux/files/home/.config/fish/config.fish
 ```
 
 ```
-git clone https://github.com/M-Cyber7/Style_Fish
+git clone https://github.com/x7cyber/Style_Fish
 ```
 
 ```
@@ -128,12 +128,7 @@ Agar lebih cepat pencariannya, Tekan CTRL + W (CTRL kemudian W) lalu paste teks 
 * **CONTOHNYA SEPERTI INI 👇**
 ![Contoh](Data/contoh.jpg)
 #
-___________________________________
-#
-<a name="warna-style"></a>
-# WARNA BACKGROUND 🔵
-**Langkah awal yaitu Menginstall style tambahan untuk apk Termux!**
-Tapi tenang, saya sudah sudah menyiapkannya dalam bentuk MediaFire yang bisa kalian Download dengan Mudah :)
+___________________________________Jam menyiapkannya dalam bentuk MediaFire yang bisa kalian Download dengan Mudah :)
 
 **Link Download :**
 #
@@ -164,7 +159,6 @@ ___________________________________
 #
 **Find me in 🌟 :** 
 #
-[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/@educationM-Cyber_29?si=rxS2h8Wh9Nd3SSvw)
-[![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/M-Cyber7)
-[![Instagram](https://img.shields.io/badge/IG-%40indonesiancyber7-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/Indonesiancyber7)
-[![Tiktok](https://img.shields.io/badge/tiktok-%40CyberM-cyan?style=for-the-badge&logo=tiktok)](https://tiktok.com/@educationm_cyber_29)
+[![YouTube](https://img.shields.io/badge/youtube-CyberM-red?style=for-the-badge&logo=youtube)](https://youtube.com/cyberm_)
+[![Github](https://img.shields.io/badge/Github-M--Cyber7-white?style=for-the-badge&logo=github)](https://github.com/x7cyber)
+[![Tiktok](https://img.shields.io/badge/tiktok-%40CyberM-cyan?style=for-the-badge&logo=tiktok)](https://tiktok.com/cyberm._)
