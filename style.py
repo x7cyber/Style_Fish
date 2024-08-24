@@ -2,7 +2,7 @@
 #----> Created to shorten or speed up tasks in the terminal/Termux!
 #----> Dibuat untuk mempersingkat atau mempercepat tugas di terminal/Termux!
 # Has been •enc•
-# https://github.com/M-Cyber7
+# https://github.com/x7cyber 
 # With naughty text : Created by Intr0v3rt 😑
 ##############################________Has been extended________##########################################________ has been extended ________###########################################################################################_______Has been extended________################## 
 ##############################________Has been extended________##########################################________ has been extended ________###########################################################################################_______Has been extended________################## 
