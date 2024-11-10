@@ -63,6 +63,14 @@ apt install figlet -y
 ```
 
 ```
+apt install fish -y
+```
+
+```
+fish
+```
+
+```
 pip install rich
 ```
 
