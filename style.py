@@ -158,7 +158,7 @@ def untuk_di_bashrc(pengguna, aktifkan_figlet):
     os.system('python background.py')
     print(f"{merah}[{putih}!{merah}]{putih} Konfigurasi berhasil diubah")
     print(f"{merah}[{putih}!{merah}]{putih} Buka New Session untuk melihat")
-    print(f"{merah}[{putih}!{merah}]{putih} Jika ada bug/saran, inbox Admin {hijau}@indonesiancyber7") 
+    print(f"{merah}[{putih}!{merah}]{putih} Jika ada bug/saran, inbox Admin {hijau}@cyberm_") 
 
 def create_bashrc_if_not_exists():
     bashrc_path = os.path.expanduser("~/.bashrc")
